@@ -1,2 +1,2 @@
-⚡ Offsets need updating!
+⚡ Offsets need updating!   
 ⚡ Add your own ImGui Menu!
