@@ -1,0 +1,2165 @@
+﻿  main.cpp
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(42071,9): warning C4005: 'ICON_MIN_FA': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(40252,9):
+      see previous definition of 'ICON_MIN_FA'
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(42073,9): warning C4005: 'ICON_MAX_FA': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(40253,9):
+      see previous definition of 'ICON_MAX_FA'
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(42388,9): warning C4005: 'ICON_FA_FAUCET': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(40864,9):
+      see previous definition of 'ICON_FA_FAUCET'
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(42973,9): warning C4005: 'ICON_FA_TRAILER': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui\Fonts.h(41880,9):
+      see previous definition of 'ICON_FA_TRAILER'
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Includes.h(62,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Includes.h(63,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(94,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(95,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(109,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(109,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(248,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(253,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(254,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(255,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(256,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(257,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(258,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(270,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(339,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(340,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(341,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(342,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(343,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(344,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(345,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(349,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(350,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(351,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(352,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(425,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(426,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(428,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(429,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(430,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(431,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(437,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(438,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(440,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(441,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(442,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(443,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(449,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(450,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(452,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(453,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(454,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(455,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(461,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(462,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(464,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(465,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(466,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(467,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(473,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(474,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(476,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(477,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(478,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(479,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(485,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(486,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(488,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(489,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(490,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(491,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(497,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(498,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(500,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(501,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(502,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(503,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(510,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(511,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(513,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(514,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(515,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(516,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(522,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(523,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(525,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(526,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(527,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(528,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(534,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(535,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(537,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(538,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(539,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(540,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(546,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(547,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(549,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(550,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(551,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(552,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(558,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(559,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(561,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(562,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(563,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(564,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(571,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(572,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(574,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(575,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(576,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(577,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(583,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(584,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(586,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(587,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(588,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(589,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(595,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(596,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(598,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(599,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(600,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(601,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(607,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(608,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(610,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(611,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(612,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(613,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(619,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(620,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(622,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(623,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(624,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(625,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(631,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(632,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(634,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(635,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(636,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(637,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(644,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(645,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(647,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(648,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(649,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(650,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(656,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(657,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(659,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(660,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(661,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(662,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(668,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(669,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(671,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(672,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(673,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(674,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(680,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(681,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(683,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(684,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(685,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(686,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(693,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(694,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(696,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(697,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(698,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(699,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(705,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(706,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(708,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(709,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(710,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(711,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(717,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(718,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(720,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(721,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(722,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(723,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(730,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(731,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(733,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(734,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(735,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(736,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(742,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(743,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(745,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(746,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(747,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(748,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(754,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(755,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(757,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(758,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(759,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(760,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(766,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(767,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(769,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(770,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(771,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(772,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(778,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(779,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(781,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(782,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(783,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(784,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1604,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1609,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1609,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1610,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1701,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1701,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1702,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1702,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1703,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1703,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1703,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1703,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1704,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1705,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1706,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1707,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1707,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1708,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1708,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1709,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1709,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1709,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1709,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1710,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1710,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1711,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1711,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1712,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1712,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1712,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1712,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1713,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1713,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1714,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1714,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1715,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1715,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1715,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1715,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1716,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1716,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1717,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1717,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1718,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1718,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1718,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1718,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1719,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1719,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1720,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1720,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1721,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1721,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1721,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1721,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1722,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1722,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1723,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1723,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1724,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1724,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1724,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1724,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1725,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1725,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1725,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1725,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1729,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1729,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1730,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1730,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1731,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1731,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1731,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1731,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1733,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1733,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1733,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1733,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1734,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1734,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1734,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1735,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1735,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1736,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1736,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1737,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1737,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1737,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1737,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1738,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1738,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1738,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1739,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1739,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1739,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1739,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1740,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1740,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1740,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1740,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1746,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1746,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1746,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1751,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1751,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1751,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1755,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1755,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1755,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1755,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1756,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1756,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1756,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1756,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1757,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1757,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1757,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1758,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1758,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1758,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1758,73): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1759,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1759,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1759,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1759,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1760,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1760,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1760,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1761,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1761,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1761,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1761,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1762,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1762,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1762,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1762,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1763,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1763,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1763,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1764,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1764,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1764,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1764,72): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1765,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1765,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1765,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1765,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1766,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1766,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1766,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1767,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1767,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1767,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1767,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1768,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1768,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1768,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1768,72): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1769,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1769,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1769,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1770,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1770,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1770,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1770,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1771,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1771,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1771,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1771,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1772,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1772,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1772,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1773,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1773,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1773,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1773,72): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1774,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1774,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1774,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1774,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1775,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1775,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1775,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1776,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1776,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1776,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1776,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1777,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1777,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1777,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1777,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1778,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1778,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1778,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1784,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1784,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1784,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1784,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1785,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1785,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1785,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1785,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1786,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1786,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1786,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1788,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1788,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1788,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1788,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1789,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1789,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1789,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1790,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1790,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1791,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1791,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1792,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1792,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1792,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1792,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1793,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1793,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1793,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1794,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1794,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1794,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1794,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1795,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1795,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1795,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1795,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1799,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1799,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1799,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1799,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1800,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1800,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1800,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1800,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1801,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1801,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1801,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1801,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1802,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1802,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1803,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1803,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1804,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1804,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1806,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1806,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1806,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1806,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1807,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1807,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1809,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1809,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1809,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1809,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1810,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1811,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1811,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1811,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1811,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1813,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1813,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1814,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1814,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1821,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Controls.hpp(1821,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resources.h(81,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resources.h(85,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Vector.h(73,45): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Vector.h(74,47): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Vector.h(83,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Vector.h(167,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Vector.h(201,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(8,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(9,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(24,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(25,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(77,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(78,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(92,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(92,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resolver.hpp(92,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(51,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(70,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(72,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(79,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(81,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(89,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(91,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(92,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(99,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(101,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(102,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(111,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(113,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(178,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(180,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(239,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(261,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(284,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(285,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(584,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(590,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(657,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(657,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(659,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(661,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(662,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(662,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(666,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(666,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(669,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(734,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(734,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(737,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(738,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(739,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Render.hpp(740,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Camera.hpp(13,30): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Camera.hpp(14,30): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\LocalPlayer.hpp(56,38): warning C4804: '>': unsafe use of type 'bool' in operation
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\LocalPlayer.hpp(70,29): warning C4244: '=': conversion from 'ULONG64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(328,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(328,28): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(332,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(332,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(344,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Player.hpp(344,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(13,37): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(126,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(127,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(248,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(263,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Aimbot.hpp(284,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(153,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(155,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(185,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(209,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(209,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(210,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(210,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(256,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(258,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(259,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(261,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(262,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(264,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(265,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(266,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(267,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(268,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(269,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(271,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(272,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(273,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(274,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(275,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(276,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(278,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(279,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(281,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(282,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(284,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(285,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(286,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(287,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(288,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(289,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(291,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(292,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(293,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(294,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(295,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(296,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(317,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(319,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(321,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(322,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(323,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(324,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(325,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(326,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(328,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(329,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(330,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(331,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(332,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(333,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(336,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(338,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(339,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(340,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(341,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(342,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(343,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(345,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(346,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(347,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(348,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(349,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(350,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(515,5): warning C4838: conversion from 'int' to '_Ty' requires a narrowing conversion
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(515,5): warning C4838:         with
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(515,5): warning C4838:         [
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(515,5): warning C4838:             _Ty=unsigned char
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(515,5): warning C4838:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(516,5): warning C4838: conversion from 'int' to '_Ty' requires a narrowing conversion
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(516,5): warning C4838:         with
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(516,5): warning C4838:         [
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(516,5): warning C4838:             _Ty=unsigned char
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(516,5): warning C4838:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(517,21): warning C4838: conversion from 'int' to '_Ty' requires a narrowing conversion
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(517,21): warning C4838:         with
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(517,21): warning C4838:         [
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(517,21): warning C4838:             _Ty=unsigned char
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Visuals.hpp(517,21): warning C4838:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(146,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(147,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(151,30): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(156,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(157,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(161,30): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(166,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(167,27): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Misc.hpp(171,30): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(7,9): warning C4005: 'DEG2RAD': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Resources.h(2,9):
+      see previous definition of 'DEG2RAD'
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(45,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(53,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(77,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(64,7): warning C4101: 'ScreenHeight': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(63,7): warning C4101: 'ScreenWidth': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(87,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(88,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(90,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(91,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(94,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(94,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(94,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(94,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(98,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(98,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(100,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(100,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(102,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(102,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(135,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(135,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(135,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Radar.hpp(135,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(75,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(75,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(75,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(75,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(76,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(76,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(76,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(76,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(77,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(77,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(77,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(77,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(78,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(78,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(78,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(78,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(79,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(79,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(79,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(79,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(80,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(80,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(80,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(80,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(81,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(81,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(81,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(81,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(82,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(82,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(82,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(82,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(87,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(87,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(87,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(87,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(92,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(92,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(92,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(92,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(92,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(97,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(97,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(97,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(97,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(129,27): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(130,28): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(200,19): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(201,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(204,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\ImGui.h(204,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Menu.h(697,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Menu.h(697,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Menu.h(700,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Menu.h(700,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\main.cpp(101,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\main.cpp(102,21): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\main.cpp(103,43): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\main.cpp(104,44): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Encryption\SpoofCall.h(132,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+      C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Encryption\SpoofCall.h(132,26):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\main.cpp(105,4):
+          see reference to function template instantiation 'int CallSpoofer::SafeCall<BOOL (HWND,HWND,int,int,int,int,UINT)>::operator ()<HWND&,HWND,LONG&,LONG&,float&,float&,int>(HWND &,HWND &&,LONG &,LONG &,float &,float &,int &&)' being compiled
+          C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\Encryption\SpoofCall.h(167,44):
+          see reference to function template instantiation 'int CallSpoofer::ShellCodeGenerator<BOOL(__cdecl *)(HWND,HWND,int,int,int,int,UINT),HWND&,HWND&&,LONG&,LONG&,float&,float&,int&&>(Func,HWND &,HWND &,LONG &,LONG &,float &,float &,int &)' being compiled
+          with
+          [
+              Func=BOOL (__cdecl *)(HWND,HWND,int,int,int,int,UINT)
+          ]
+  
+  Generating code
+C:\Users\Jook1\Desktop\Work\Aimxpert Apex\Aimxpert Apex\MouseInputs.h(17): warning C4715: 'StoreAsyncKeyState': not all control paths return a value
+  196 of 3354 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Aimxpert Apex.vcxproj -> C:\Users\Jook1\Desktop\Work\Aimxpert Apex\x64\Release\Aimxpert Apex.exe

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Includes">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Includes\Encryption">
+      <UniqueIdentifier>{8d0e249b-6e4d-41fb-8b38-c090585e0e3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Includes\ImGui">
+      <UniqueIdentifier>{2a846727-d29e-4318-9b8a-0d38657e9bdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Includes\ImGui\D3DX9">
+      <UniqueIdentifier>{dfd8607f-d3e7-4547-8db9-154f9fc204c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Includes\Driver">
+      <UniqueIdentifier>{7761448f-474f-4025-94f7-263f951edcc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\Menu">
+      <UniqueIdentifier>{21a51b22-f5aa-40ed-9737-ef7594caa681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK">
+      <UniqueIdentifier>{4b32ebc0-1b75-41b7-907e-5988a43313c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK\Struct">
+      <UniqueIdentifier>{f5565f7e-15e1-435c-9358-ec1bec314999}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK\Core">
+      <UniqueIdentifier>{bd5f4050-7f6e-4bc6-a865-e284abba85e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK\Cheat">
+      <UniqueIdentifier>{9845c8ee-92c4-44df-aa0b-35f91ba6b774}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK\MouseInputs">
+      <UniqueIdentifier>{93202665-28f1-4f09-b636-4cdaea72e6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\SDK\Renderer">
+      <UniqueIdentifier>{ec15c3ee-2193-4069-a7db-17f3bc844272}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_demo.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx9.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\Snow.cpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\Li.h">
+      <Filter>Includes\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\SpoofCall.h">
+      <Filter>Includes\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\XorCrypt.h">
+      <Filter>Includes\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption\XorStr.h">
+      <Filter>Includes\Encryption</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\Fonts.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\ImageBytes.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\ImageRender.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imconfig.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx9.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\Snow.hpp">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\stb_image.h">
+      <Filter>Includes\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9anim.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9core.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9effect.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9math.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9mesh.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9shader.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9shape.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9tex.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\D3DX9\d3dx9xof.h">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui.h">
+      <Filter>main\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="QAngle.h">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="GlowMode.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalPlayer.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>main\SDK\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Visuals.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Radar.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Triggerbot.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <Filter>Includes\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources.h">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseInputs.h">
+      <Filter>main\SDK\MouseInputs</Filter>
+    </ClInclude>
+    <ClInclude Include="Controls.hpp">
+      <Filter>main\SDK\Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.hpp">
+      <Filter>main\SDK\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Resolver.hpp">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>main\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK_INCLUDE.hpp">
+      <Filter>main\SDK\Struct</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="ImGui\D3DX9\d3dx9.lib">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImGui\D3DX9\d3dx9math.inl">
+      <Filter>Includes\ImGui\D3DX9</Filter>
+    </None>
+  </ItemGroup>
+</Project>
